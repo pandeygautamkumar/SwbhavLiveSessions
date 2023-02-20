@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\bin\Debug\PassingValuesApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\bin\Debug\PassingValuesApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\bin\Debug\PassingValuesApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\obj\Debug\PassingValuesApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session04\PassingValuesApp\obj\Debug\PassingValuesApp.pdb
