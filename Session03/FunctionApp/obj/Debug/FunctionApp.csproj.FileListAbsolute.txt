@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\bin\Debug\FunctionApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\bin\Debug\FunctionApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\bin\Debug\FunctionApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\obj\Debug\FunctionApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\obj\Debug\FunctionApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\obj\Debug\FunctionApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\obj\Debug\FunctionApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session03\FunctionApp\obj\Debug\FunctionApp.pdb
