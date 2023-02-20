@@ -1,0 +1,16 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\bin\Debug\BasicStatsApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\bin\Debug\BasicStatsApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\bin\Debug\BasicStatsApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\bin\Debug\BasicStatsApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\bin\Debug\BasicStatsApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\bin\Debug\BasicStatsApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session02\BasicStatsApp\obj\Debug\BasicStatsApp.pdb
