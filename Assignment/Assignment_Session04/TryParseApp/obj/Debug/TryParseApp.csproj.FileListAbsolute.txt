@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\bin\Debug\TryParseApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\bin\Debug\TryParseApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\bin\Debug\TryParseApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\obj\Debug\TryParseApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\obj\Debug\TryParseApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\obj\Debug\TryParseApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\obj\Debug\TryParseApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\TryParseApp\obj\Debug\TryParseApp.pdb

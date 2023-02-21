@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\bin\Debug\InVariableApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\bin\Debug\InVariableApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\bin\Debug\InVariableApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\obj\Debug\InVariableApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\obj\Debug\InVariableApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\obj\Debug\InVariableApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\obj\Debug\InVariableApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\InVariableApp\obj\Debug\InVariableApp.pdb

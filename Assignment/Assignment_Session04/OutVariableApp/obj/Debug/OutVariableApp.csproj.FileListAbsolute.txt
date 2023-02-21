@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\bin\Debug\OutVariableApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\bin\Debug\OutVariableApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\bin\Debug\OutVariableApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\obj\Debug\OutVariableApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\obj\Debug\OutVariableApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\obj\Debug\OutVariableApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\obj\Debug\OutVariableApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session04\OutVariableApp\obj\Debug\OutVariableApp.pdb
