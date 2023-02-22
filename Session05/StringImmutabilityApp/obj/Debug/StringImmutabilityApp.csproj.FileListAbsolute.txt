@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\bin\Debug\StringImmutabilityApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\bin\Debug\StringImmutabilityApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\bin\Debug\StringImmutabilityApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\obj\Debug\StringImmutabilityApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\obj\Debug\StringImmutabilityApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\obj\Debug\StringImmutabilityApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\obj\Debug\StringImmutabilityApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\StringImmutabilityApp\obj\Debug\StringImmutabilityApp.pdb
