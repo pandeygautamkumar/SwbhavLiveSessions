@@ -1,0 +1,16 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\bin\Debug\RectangleApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\bin\Debug\RectangleApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session05\RectangleApp\RectangleApp\obj\Debug\RectangleApp.pdb
