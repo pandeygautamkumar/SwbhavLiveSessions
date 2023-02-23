@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\bin\Debug\RectanglePropertiesApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\bin\Debug\RectanglePropertiesApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\bin\Debug\RectanglePropertiesApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session07\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.pdb
