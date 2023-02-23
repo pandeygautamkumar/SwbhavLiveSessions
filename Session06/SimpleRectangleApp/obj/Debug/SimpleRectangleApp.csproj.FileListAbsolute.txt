@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\bin\Debug\SimpleRectangleApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\bin\Debug\SimpleRectangleApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\bin\Debug\SimpleRectangleApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session06\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.pdb
