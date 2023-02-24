@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\bin\Debug\RectangleEnumApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\obj\Debug\RectangleEnumApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\RectangleEnumApp\obj\Debug\RectangleEnumApp.pdb

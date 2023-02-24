@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\bin\Debug\AccountApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\bin\Debug\AccountApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\bin\Debug\AccountApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\obj\Debug\AccountApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session08\AccountApp\obj\Debug\AccountApp.pdb
