@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\bin\Debug\StudentApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\bin\Debug\StudentApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\bin\Debug\StudentApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\obj\Debug\StudentApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\obj\Debug\StudentApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session08\StudentApp\obj\Debug\StudentApp.pdb
