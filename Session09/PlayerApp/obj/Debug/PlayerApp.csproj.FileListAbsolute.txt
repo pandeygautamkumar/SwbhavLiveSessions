@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\bin\Debug\PlayerApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\bin\Debug\PlayerApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\bin\Debug\PlayerApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\obj\Debug\PlayerApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\obj\Debug\PlayerApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\obj\Debug\PlayerApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\obj\Debug\PlayerApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session09\PlayerApp\obj\Debug\PlayerApp.pdb
