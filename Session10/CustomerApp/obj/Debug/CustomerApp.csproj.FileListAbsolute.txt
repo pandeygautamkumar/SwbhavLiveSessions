@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\bin\Debug\CustomerApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\obj\Debug\CustomerApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\obj\Debug\CustomerApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\obj\Debug\CustomerApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\obj\Debug\CustomerApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Session10\CustomerApp\obj\Debug\CustomerApp.pdb
