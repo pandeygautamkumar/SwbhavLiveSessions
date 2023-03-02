@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\bin\Debug\ManBoyInheritance.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\bin\Debug\ManBoyInheritance.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\bin\Debug\ManBoyInheritance.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\obj\Debug\ManBoyInheritance.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\obj\Debug\ManBoyInheritance.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\obj\Debug\ManBoyInheritance.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\obj\Debug\ManBoyInheritance.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ManBoyInheritance\obj\Debug\ManBoyInheritance.pdb

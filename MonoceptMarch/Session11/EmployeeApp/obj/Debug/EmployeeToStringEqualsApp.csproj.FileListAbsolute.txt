@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\obj\Debug\EmployeeToStringEqualsApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\obj\Debug\EmployeeToStringEqualsApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\obj\Debug\EmployeeToStringEqualsApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session11\EmployeeApp\obj\Debug\EmployeeApp.pdb

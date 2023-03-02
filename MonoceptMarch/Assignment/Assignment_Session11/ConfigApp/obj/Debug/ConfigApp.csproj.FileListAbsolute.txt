@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\bin\Debug\ConfigApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\bin\Debug\ConfigApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\bin\Debug\ConfigApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\obj\Debug\ConfigApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\obj\Debug\ConfigApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\obj\Debug\ConfigApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\obj\Debug\ConfigApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session11\ConfigApp\obj\Debug\ConfigApp.pdb

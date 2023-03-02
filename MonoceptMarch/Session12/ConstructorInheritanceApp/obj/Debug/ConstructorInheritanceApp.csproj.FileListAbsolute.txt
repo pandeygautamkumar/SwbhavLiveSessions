@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\bin\Debug\ConstructorInheritanceApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\bin\Debug\ConstructorInheritanceApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\bin\Debug\ConstructorInheritanceApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\obj\Debug\ConstructorInheritanceApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\obj\Debug\ConstructorInheritanceApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\obj\Debug\ConstructorInheritanceApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\obj\Debug\ConstructorInheritanceApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session12\ConstructorInheritanceApp\obj\Debug\ConstructorInheritanceApp.pdb
