@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\bin\Debug\EvenOddFinderApp.exe.config
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\bin\Debug\EvenOddFinderApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\bin\Debug\EvenOddFinderApp.pdb
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\obj\Debug\EvenOddFinderApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\obj\Debug\EvenOddFinderApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\obj\Debug\EvenOddFinderApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\obj\Debug\EvenOddFinderApp.exe
+C:\SwbhavLiveSessions\MonoceptFeb15\Assignment\Assignment_Session10\EvenOddFinderApp\obj\Debug\EvenOddFinderApp.pdb
