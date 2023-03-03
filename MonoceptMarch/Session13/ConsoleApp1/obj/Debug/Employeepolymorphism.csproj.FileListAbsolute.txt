@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\obj\Debug\Employeepolymorphism.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\obj\Debug\Employeepolymorphism.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\obj\Debug\Employeepolymorphism.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session13\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
