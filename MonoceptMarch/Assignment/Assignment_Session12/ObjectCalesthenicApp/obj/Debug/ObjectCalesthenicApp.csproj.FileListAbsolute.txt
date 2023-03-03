@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\bin\Debug\ObjectCalesthenicApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\bin\Debug\ObjectCalesthenicApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\bin\Debug\ObjectCalesthenicApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\obj\Debug\ObjectCalesthenicApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\obj\Debug\ObjectCalesthenicApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\obj\Debug\ObjectCalesthenicApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\obj\Debug\ObjectCalesthenicApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\ObjectCalesthenicApp\obj\Debug\ObjectCalesthenicApp.pdb

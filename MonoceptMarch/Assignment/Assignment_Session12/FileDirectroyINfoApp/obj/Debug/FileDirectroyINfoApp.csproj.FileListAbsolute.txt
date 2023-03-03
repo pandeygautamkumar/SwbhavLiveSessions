@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\bin\Debug\FileDirectroyINfoApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\bin\Debug\FileDirectroyINfoApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\bin\Debug\FileDirectroyINfoApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\obj\Debug\FileDirectroyINfoApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\obj\Debug\FileDirectroyINfoApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\obj\Debug\FileDirectroyINfoApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\obj\Debug\FileDirectroyINfoApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\FileDirectroyINfoApp\obj\Debug\FileDirectroyINfoApp.pdb

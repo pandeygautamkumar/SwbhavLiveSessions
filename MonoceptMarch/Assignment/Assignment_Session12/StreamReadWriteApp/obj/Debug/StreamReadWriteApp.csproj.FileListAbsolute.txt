@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\bin\Debug\StreamReadWriteApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\bin\Debug\StreamReadWriteApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\bin\Debug\StreamReadWriteApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\obj\Debug\StreamReadWriteApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\obj\Debug\StreamReadWriteApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\obj\Debug\StreamReadWriteApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\obj\Debug\StreamReadWriteApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session12\StreamReadWriteApp\obj\Debug\StreamReadWriteApp.pdb
