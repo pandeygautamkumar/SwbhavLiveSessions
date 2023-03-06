@@ -1,0 +1,6 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountLibrary\bin\Debug\AccountLibrary.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountLibrary\bin\Debug\AccountLibrary.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountLibrary\obj\Debug\AccountLibrary.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountLibrary\obj\Debug\AccountLibrary.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountLibrary\obj\Debug\AccountLibrary.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountLibrary\obj\Debug\AccountLibrary.pdb

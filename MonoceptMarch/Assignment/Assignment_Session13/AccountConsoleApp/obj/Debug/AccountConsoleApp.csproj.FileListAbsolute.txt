@@ -1,0 +1,11 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\bin\Debug\AccountConsoleApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\bin\Debug\AccountConsoleApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\bin\Debug\AccountConsoleApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\bin\Debug\AccountLibrary.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\bin\Debug\AccountLibrary.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\obj\Debug\AccountConsoleApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\obj\Debug\AccountConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\obj\Debug\AccountConsoleApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\obj\Debug\AccountConsoleApp.csproj.CopyComplete
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\obj\Debug\AccountConsoleApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\AccountConsoleApp\obj\Debug\AccountConsoleApp.pdb
