@@ -1,0 +1,12 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\HumanSerializationDeserialization\HumanLib\bin\Debug\HumanLib.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\HumanSerializationDeserialization\HumanLib\bin\Debug\HumanLib.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session14\HumanSerializationDeserialization\HumanLib\bin\Debug\HumanLib.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session14\HumanSerializationDeserialization\HumanLib\bin\Debug\HumanLib.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session14\HumanSerializationDeserialization\HumanLib\obj\Debug\HumanLib.pdb
