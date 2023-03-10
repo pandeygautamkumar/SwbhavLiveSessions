@@ -1,0 +1,15 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\bin\Debug\net6.0\ExceptionPropogationApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\bin\Debug\net6.0\ExceptionPropogationApp.deps.json
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\bin\Debug\net6.0\ExceptionPropogationApp.runtimeconfig.json
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\bin\Debug\net6.0\ExceptionPropogationApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\bin\Debug\net6.0\ExceptionPropogationApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.AssemblyInfoInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.AssemblyInfo.cs
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\refint\ExceptionPropogationApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ExceptionPropogationApp.genruntimeconfig.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionPropogationApp\obj\Debug\net6.0\ref\ExceptionPropogationApp.dll

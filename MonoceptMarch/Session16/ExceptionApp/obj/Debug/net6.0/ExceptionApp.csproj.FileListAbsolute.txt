@@ -1,0 +1,15 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\bin\Debug\net6.0\ExceptionApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\bin\Debug\net6.0\ExceptionApp.deps.json
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\bin\Debug\net6.0\ExceptionApp.runtimeconfig.json
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\bin\Debug\net6.0\ExceptionApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\bin\Debug\net6.0\ExceptionApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.AssemblyInfoInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.AssemblyInfo.cs
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\refint\ExceptionApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ExceptionApp.genruntimeconfig.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\ExceptionApp\obj\Debug\net6.0\ref\ExceptionApp.dll
