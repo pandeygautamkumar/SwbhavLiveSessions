@@ -1,0 +1,15 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\bin\Debug\net6.0\MovableReefectoredApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\bin\Debug\net6.0\MovableReefectoredApp.deps.json
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\bin\Debug\net6.0\MovableReefectoredApp.runtimeconfig.json
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\bin\Debug\net6.0\MovableReefectoredApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\bin\Debug\net6.0\MovableReefectoredApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.AssemblyInfoInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.AssemblyInfo.cs
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\refint\MovableReefectoredApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\MovableReefectoredApp.genruntimeconfig.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session16\MovableReefectoredApp\obj\Debug\net6.0\ref\MovableReefectoredApp.dll
