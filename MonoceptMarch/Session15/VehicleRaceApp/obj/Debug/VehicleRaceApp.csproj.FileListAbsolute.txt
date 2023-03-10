@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\bin\Debug\VehicleRaceApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\bin\Debug\VehicleRaceApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\bin\Debug\VehicleRaceApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\obj\Debug\VehicleRaceApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\obj\Debug\VehicleRaceApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\obj\Debug\VehicleRaceApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\obj\Debug\VehicleRaceApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\VehicleRaceApp\obj\Debug\VehicleRaceApp.pdb

@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\bin\Debug\SimpleInterfaceApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\bin\Debug\SimpleInterfaceApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\bin\Debug\SimpleInterfaceApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\obj\Debug\SimpleInterfaceApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\obj\Debug\SimpleInterfaceApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\obj\Debug\SimpleInterfaceApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\obj\Debug\SimpleInterfaceApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\SimpleInterfaceApp\obj\Debug\SimpleInterfaceApp.pdb

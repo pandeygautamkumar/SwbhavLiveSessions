@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\bin\Debug\InterfacePolymorphismApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\bin\Debug\InterfacePolymorphismApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\bin\Debug\InterfacePolymorphismApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\obj\Debug\InterfacePolymorphismApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\obj\Debug\InterfacePolymorphismApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\obj\Debug\InterfacePolymorphismApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\obj\Debug\InterfacePolymorphismApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session15\InterfacePolymorphismApp\obj\Debug\InterfacePolymorphismApp.pdb
