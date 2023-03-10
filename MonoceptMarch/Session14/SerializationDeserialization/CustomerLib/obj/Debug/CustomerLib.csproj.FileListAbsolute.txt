@@ -1,0 +1,6 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\SerializationDeserialization\CustomerLib\bin\Debug\CustomerLib.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\SerializationDeserialization\CustomerLib\bin\Debug\CustomerLib.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\SerializationDeserialization\CustomerLib\obj\Debug\CustomerLib.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\SerializationDeserialization\CustomerLib\obj\Debug\CustomerLib.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\SerializationDeserialization\CustomerLib\obj\Debug\CustomerLib.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session13\SerializationDeserialization\CustomerLib\obj\Debug\CustomerLib.pdb

@@ -1,0 +1,9 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\bin\Debug\VishakDeserializationApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\bin\Debug\VishakDeserializationApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\bin\Debug\VishakDeserializationApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\obj\Debug\VishakDeserializationApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\obj\Debug\VishakDeserializationApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\obj\Debug\VishakDeserializationApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\obj\Debug\VishakDeserializationApp.csproj.CopyComplete
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\obj\Debug\VishakDeserializationApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Session14\VishakDeserializationApp\obj\Debug\VishakDeserializationApp.pdb
