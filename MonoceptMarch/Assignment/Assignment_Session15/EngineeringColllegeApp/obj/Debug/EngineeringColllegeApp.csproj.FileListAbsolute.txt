@@ -1,0 +1,8 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\bin\Debug\EngineeringColllegeApp.exe.config
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\bin\Debug\EngineeringColllegeApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\bin\Debug\EngineeringColllegeApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\obj\Debug\EngineeringColllegeApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\obj\Debug\EngineeringColllegeApp.csproj.SuggestedBindingRedirects.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\obj\Debug\EngineeringColllegeApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\obj\Debug\EngineeringColllegeApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session15\EngineeringColllegeApp\obj\Debug\EngineeringColllegeApp.pdb
