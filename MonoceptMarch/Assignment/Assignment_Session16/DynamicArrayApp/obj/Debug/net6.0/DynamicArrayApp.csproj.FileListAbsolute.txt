@@ -1,0 +1,15 @@
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\bin\Debug\net6.0\DynamicArrayApp.exe
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\bin\Debug\net6.0\DynamicArrayApp.deps.json
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\bin\Debug\net6.0\DynamicArrayApp.runtimeconfig.json
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\bin\Debug\net6.0\DynamicArrayApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\bin\Debug\net6.0\DynamicArrayApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.csproj.AssemblyReference.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.AssemblyInfoInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.AssemblyInfo.cs
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.csproj.CoreCompileInputs.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\refint\DynamicArrayApp.dll
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.pdb
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\DynamicArrayApp.genruntimeconfig.cache
+C:\SwbhavLiveSessions\MonoceptMarch\Assignment\Assignment_Session16\DynamicArrayApp\obj\Debug\net6.0\ref\DynamicArrayApp.dll
